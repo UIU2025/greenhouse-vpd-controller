@@ -29,6 +29,9 @@ An Arduino-based system that maintains optimal Vapor Pressure Deficit (VPD) for 
 
 Plus a gas burner (e.g., Titan Controls Ares) for winter heating + CO₂.
 
+![flatai-generated-image-seed-3711768185](https://github.com/user-attachments/assets/1f35e1d2-94a3-4d0f-adc1-ebd5a428214f)
+
+
 ## Wiring Diagram
 
 See [wiring.md](wiring.md) for detailed pin connections and RJ45 pinout for 3‑meter sensor cables.
