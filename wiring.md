@@ -1,3 +1,7 @@
+
+<img width="1344" height="768" alt="headshotmaster260312_0257_07" src="https://github.com/user-attachments/assets/d2bdc213-5171-4948-bbca-638319e9f301" />
+
+
 # Wiring Instructions
 
 ## Arduino Pin Connections
