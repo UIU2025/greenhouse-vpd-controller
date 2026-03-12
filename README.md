@@ -1,3 +1,4 @@
+<img width="258" height="254" alt="image" src="https://github.com/user-attachments/assets/46314f7d-fcce-48dc-aecd-4c53d1a23abf" />
 # Automated Greenhouse VPD Controller
 
 An Arduino-based system that maintains optimal Vapor Pressure Deficit (VPD) for flower production. Features smart ventilation using outside air, day/night VPD targets that ramp over a 60‑day crop cycle, and energy‑saving on/off control.
