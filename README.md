@@ -1,4 +1,5 @@
-<img width="258" height="254" alt="image" src="https://github.com/user-attachments/assets/46314f7d-fcce-48dc-aecd-4c53d1a23abf" />
+
+<img width="1024" height="1024" alt="headshotmaster260312_0242_01" src="https://github.com/user-attachments/assets/07796be6-523b-4129-8f0e-2630125ea28a" />
 
 
 # Automated Greenhouse VPD Controller
