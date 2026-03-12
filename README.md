@@ -1,6 +1,5 @@
 
-<img width="1024" height="1024" alt="headshotmaster260312_0242_01" src="https://github.com/user-attachments/assets/07796be6-523b-4129-8f0e-2630125ea28a" />
-
+<img width="1024" height="1024" alt="headshotmaster260312_0247_40" src="https://github.com/user-attachments/assets/b7ff63bb-318a-4a2e-963f-df911c3915a0" />
 
 # Automated Greenhouse VPD Controller
 
@@ -30,11 +29,10 @@ An Arduino-based system that maintains optimal Vapor Pressure Deficit (VPD) for 
 
 Plus a gas burner (e.g., Titan Controls Ares) for winter heating + CO₂.
 
-![flatai-generated-image-seed-3711768185](https://github.com/user-attachments/assets/1f35e1d2-94a3-4d0f-adc1-ebd5a428214f)
 
-<img width="1024" height="1024" alt="headshotmaster260312_0247_40" src="https://github.com/user-attachments/assets/b7ff63bb-318a-4a2e-963f-df911c3915a0" />
 
-<img width="1024" height="1024" alt="headshotmaster260312_0245_16" src="https://github.com/user-attachments/assets/6b4447b5-a480-4ad9-ac28-d8543da2c73a" />
+<img width="1024" height="1024" alt="headshotmaster260312_0242_01" src="https://github.com/user-attachments/assets/07796be6-523b-4129-8f0e-2630125ea28a" />
+
 
 
 ## Wiring Diagram
