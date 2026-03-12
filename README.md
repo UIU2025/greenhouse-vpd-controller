@@ -22,10 +22,7 @@ An Arduino-based system that maintains optimal Vapor Pressure Deficit (VPD) for 
 | LDR + 10k resistor         | 1 set    | $1                        |
 | Push button                | 1        | $0.50                     |
 | Breadboard + jumper wires  | 1 pack   | $3                        |
-| Project enclosure          | 1        | $8                        |
-| 12V power supply           | 1        | $10                       |
-| RJ45 jacks & CAT5 cable    | as needed| $10                       |
-| **Total**                  |          | **~$45**                  |
+| **Total**                  |          | **~$16.5**                  |
 
 Plus a gas burner (e.g., Titan Controls Ares) for winter heating + CO₂.
 
